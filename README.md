@@ -1,5 +1,7 @@
 # Spanish Seed Words
 
+[![DOI](https://zenodo.org/badge/894535677.svg)](https://doi.org/10.5281/zenodo.14264692)
+
 The corpus is a curated dataset of Spanish words categorized by grammatical gender, intended for use in bias analysis and related fields. The words are organized into feminine and masculine categories, each containing multiple subcategories of lexical items. 
 
 Data files are in `.csv` format, located in the `data/` directory, and are separated into subcategories as follows:
