@@ -10,18 +10,26 @@ Data files are in `.csv` format, located in the `data/` directory, and are separ
 
 ### Feminine Words (`data/Feminine/`)
 - [**00_Ignore_fem.csv**](./data/Feminine/00_Ignore_fem.csv): Words that should be excluded from processing due to their irrelevance or ambiguity in gender contexts.
+- [**00_Ignore_fem_pl.csv**](./data/Feminine/00_Ignore_fem_pl.csv): Plural forms of words that should be excluded from processing.
 - [**01_Pron_fem.csv**](./data/Feminine/01_Pron_fem.csv): Pronouns that indicate feminine gender.
+- [**01_Pron_fem_pl.csv**](./data/Feminine/01_Pron_fem_pl.csv): Plural forms of pronouns that indicate feminine gender.
 - [**02_Sust_fem.csv**](./data/Feminine/02_Sust_fem.csv): Feminine nouns.
+- [**02_Sust_fem_pl.csv**](./data/Feminine/02_Sust_fem_pl.csv): Plural forms of feminine nouns.
 - [**03_Professions_list_fem.csv**](./data/Feminine/03_Professions_list_fem.csv): Profession names in their feminine forms.
+- [**03_Professions_list_fem_pl.csv**](./data/Feminine/03_Professions_list_fem_pl.csv): Plural forms of profession names in their feminine forms.
 - [**04_Nombres_fem.csv**](./data/Feminine/04_Nombres_fem.csv): Feminine names.
 - [**05_Heteronimos_fem.csv**](./data/Feminine/05_Heteronimos_fem.csv): Feminine heteronyms.
+- [**05_Heteronimos_fem_pl.csv**](./data/Feminine/05_Heteronimos_fem_pl.csv): Plural forms of feminine heteronyms.
 - [**06_Heteronimos_adj_fem.csv**](./data/Feminine/06_Heteronimos_adj_fem.csv): Feminine heteronymous adjectives.
 - [**07_Abreviaturas_fem.csv**](./data/Feminine/07_Abreviaturas_fem.csv): Abbreviations and acronyms with feminine connotations.
+- [**07_Abreviaturas_fem_pl.csv**](./data/Feminine/07_Abreviaturas_fem_pl.csv): Plural forms of abbreviations and acronyms with feminine connotations.
 
 ### Masculine Words (`data/Masculine/`)
 - [**00_Ignore_masc.csv**](./data/Masculine/00_Ignore_masc.csv): Words that should be excluded from processing for similar reasons as their feminine counterparts.
+- [**00_Ignore_masc_pl.csv**](./data/Masculine/00_Ignore_masc_pl.csv): Plural forms of words that should be excluded from processing.
 - [**01_Pron_masc.csv**](./data/Masculine/01_Pron_masc.csv): Pronouns that indicate masculine gender.
 - [**02_Sust_masc.csv**](./data/Masculine/02_Sust_masc.csv): Masculine nouns.
+- [**02_Sust_masc_pl.csv**](./data/Masculine/02_Sust_masc_pl.csv): Plural forms of masculine nouns.
 - [**03_Professions_list_masc.csv**](./data/Masculine/03_Professions_list_masc.csv): Profession names in their masculine forms.
 - [**04_Nombres_masc.csv**](./data/Masculine/04_Nombres_masc.csv): Masculine names.
 - [**05_Heteronimos_masc.csv**](./data/Masculine/05_Heteronimos_masc.csv): Masculine heteronyms.
